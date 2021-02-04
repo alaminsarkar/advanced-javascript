@@ -8,5 +8,5 @@
 //NaN
 
 //True jgula.
-//'0', 'space' [], {}.
+//'0', 'space'    [], {}.
 
